@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8dd5429.chunk.css",
-    "main.js": "/static/js/main.25f6e4c2.chunk.js",
-    "main.js.map": "/static/js/main.25f6e4c2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab8a3189.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab8a3189.js.map",
-    "static/js/2.f2bbd5df.chunk.js": "/static/js/2.f2bbd5df.chunk.js",
-    "static/js/2.f2bbd5df.chunk.js.map": "/static/js/2.f2bbd5df.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e8dd5429.chunk.css.map": "/static/css/main.e8dd5429.chunk.css.map",
-    "static/js/2.f2bbd5df.chunk.js.LICENSE.txt": "/static/js/2.f2bbd5df.chunk.js.LICENSE.txt"
+    "main.css": "/React-29-summary/static/css/main.e8dd5429.chunk.css",
+    "main.js": "/React-29-summary/static/js/main.25f6e4c2.chunk.js",
+    "main.js.map": "/React-29-summary/static/js/main.25f6e4c2.chunk.js.map",
+    "runtime-main.js": "/React-29-summary/static/js/runtime-main.453174c1.js",
+    "runtime-main.js.map": "/React-29-summary/static/js/runtime-main.453174c1.js.map",
+    "static/js/2.f2bbd5df.chunk.js": "/React-29-summary/static/js/2.f2bbd5df.chunk.js",
+    "static/js/2.f2bbd5df.chunk.js.map": "/React-29-summary/static/js/2.f2bbd5df.chunk.js.map",
+    "index.html": "/React-29-summary/index.html",
+    "static/css/main.e8dd5429.chunk.css.map": "/React-29-summary/static/css/main.e8dd5429.chunk.css.map",
+    "static/js/2.f2bbd5df.chunk.js.LICENSE.txt": "/React-29-summary/static/js/2.f2bbd5df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab8a3189.js",
+    "static/js/runtime-main.453174c1.js",
     "static/js/2.f2bbd5df.chunk.js",
     "static/css/main.e8dd5429.chunk.css",
     "static/js/main.25f6e4c2.chunk.js"
